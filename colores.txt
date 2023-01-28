@@ -1,0 +1,10 @@
+verde:rgb (180,220,59)
+verder2:rbg(167,207,47)
+negro:rgb(28,22,13)
+font-family: 'Trebuchet MS', sans-serif;
+
+<li>Inventore veritatis et quasi .........$20</li>
+<li>Inventore veritatis et quasi .........$20</li>
+<li>Inventore veritatis et quasi .........$20</li>
+<li>Inventore veritatis et quasi .........$20</li>
+<li>Inventore veritatis et quasi .........$20</li>

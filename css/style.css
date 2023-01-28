@@ -1,0 +1,43 @@
+*{
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.bg-green{
+    background: linear-gradient(to bottom, rgb(180,220,59), rgb(167,207,47));
+}
+
+.bg-dark{
+    background-color: rgb(28,22,13);
+}
+.text-green{
+    color: rgb(167,207,47);
+}
+
+.botonera{
+    background: linear-gradient(to bottom, rgb(180,220,59), rgb(167,207,47));
+}
+
+    .botonera ul li a{
+        font-size: 1.4em;
+        color:  rgb(28,22,13) ;
+    }
+
+main article p{
+    font-size: 0.9em;
+}
+
+main article ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+@media (max-width:768px){
+    main article img{
+        width: 90%;
+        margin: 10px auto;
+        display: block;
+    }
+}
+
+.novedades{
+    height: 30vh;
+}
